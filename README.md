@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangshuyx
-- 👀 I’m interested in Python\Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python\Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Tools projects. 
 - 📫 How to reach me zhangshuyx@126.com
 
